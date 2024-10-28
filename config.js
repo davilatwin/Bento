@@ -61,19 +61,19 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Aeries',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://centraluhsd.aeries.net/Teacher/Login.aspx',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
+			name: 'Frontline',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://absencesub.frontlineeducation.com/Substitute/Home',
 		},
 		{
 			id: '5',
@@ -83,7 +83,7 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
@@ -94,7 +94,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://music.apple.com/us/library/all-playlists/',
 		},
 		{
 			id: '2',
@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Apple',
+					link: 'https://music.apple.com/us/library/all-playlists/',
 				},
 				{
 					name: 'Classic',
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'D&D Beyond',
+					link: 'https://www.dndbeyond.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Zotero',
+					link: 'https://www.zotero.org/twin1/library',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'CityHop',
+					link: 'https://www.cityhop.cafe/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'FF',
+					link: 'https://www.fanfiction.net/alert/story.php',
 				},
 			],
 		},
