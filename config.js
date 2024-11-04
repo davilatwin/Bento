@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Twin1',
 	imageBackground: false,
-	openInNewTab: false,
+	openInNewTab: true,
 	twelveHourFormat: true,
 
 	// Greetings
